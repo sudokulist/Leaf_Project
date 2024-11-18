@@ -18,3 +18,7 @@ Disease dataset, but classified by plants only. However, background images are e
    4.1. Code for learning Image Recognition Model<br>
 5. System_GUI.py<br>
    5.1 Display for evaluation of Combined Models<br>
+
+### Final
+There are no comments in the source code.
+Also, for the first time, I'm posting the results on Github. Any comments would be appreciated. Please contact me if I'm mentioning anything prohibited.
