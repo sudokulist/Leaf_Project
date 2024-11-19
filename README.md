@@ -11,10 +11,10 @@
 9 Potato, 10 Rasberry, 11 Soybean, 12 Squash, 13 Strawberry, 14 Tomato<br>
 
 #### プログラム実行手順
-1 Convolutional_AutoEncoder.py<br>
+1. Convolutional_AutoEncoder.py<br>
 このコードは畳み込みオートエンコーダーを設計したコードです。畳み込みにはCNNと逆畳み込みを使用しています。<br><br>
 
-2 Classification.py<br>
+2. Classification.py<br>
 画像認識モデルを設計したコードです。画像認識モデルの基本はWideResNetを参考にして作成しています。<br><br>
 
 3. AutoEncoder_Train.py<br>
