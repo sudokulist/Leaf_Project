@@ -1,13 +1,15 @@
 # Leaf_Project
+### 日本語版
+####
 
 ### The project is to train a model that combines convolutional autoencoder and image recognition and display the resulting GUI.
 #### It is OK if the GUI display looks like SystemGUI_Picture.png. Please import libraries as needed.
 
-### Dataset
+#### Dataset
 Dataset is [PlantVillage](https://data.mendeley.com/datasets/tywbtsjrjv/1).
 Disease dataset, but classified by plants only. However, background images are excluded.
 
-### Program Flow(To be performed in the following sequence)
+#### Program Flow(To be performed in the following sequence)
 1. Convolutional_AutoEncoder.py<br>
    1.1. Code for Convolutional Autoencoder design<br>
 2. Classification.py<br>
@@ -19,6 +21,6 @@ Disease dataset, but classified by plants only. However, background images are e
 5. System_GUI.py<br>
    5.1 Display for evaluation of Combined Models<br>
 
-### Final
+#### Final
 There are no comments in the source code.
 Also, for the first time, I'm posting the results on Github. Any comments would be appreciated. Please contact me if I'm mentioning anything prohibited.
