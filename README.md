@@ -1,6 +1,14 @@
 # Leaf_Project
 ### 日本語版
-####
+#### このプロジェクトは病気の葉っぱから画像認識を行うモデルと画像復元するためのモデルを組み合わせた深層学習モデルをGUIを使用して表示するためのプロジェクトです。
+#### 完成版の写真はSystemGUI_Picture.pngで掲示しています。
+
+#### データセット
+データセットは、[PlantVillage](https://data.mendeley.com/datasets/tywbtsjrjv/1)です。
+データセットは葉っぱの分類のデータセットで各病気の種類で分類するタスクです。その分類を植物の分類に変換したデータセットで学習を行っています。
+以下はデータセットのクラスです。
+1 Apple, 2 Blueberry, 3 Cherry, 4 Corn, 5 Grape, 6 Peach, 7 Pepperbell, 8 Potato, 9 Rasberry, 10 Soybean
+11 Squash, 12 Strawberry, 13 Tomato
 
 ### The project is to train a model that combines convolutional autoencoder and image recognition and display the resulting GUI.
 #### It is OK if the GUI display looks like SystemGUI_Picture.png. Please import libraries as needed.
