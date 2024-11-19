@@ -7,7 +7,8 @@
 データセットは、[PlantVillage](https://data.mendeley.com/datasets/tywbtsjrjv/1)です。
 データセットは葉っぱの分類のデータセットで各病気の種類で分類するタスクです。その分類を植物の分類に変換したデータセットで学習を行っています。
 以下はデータセットのクラスです。<br>
-1 Apple, 2 Blueberry, 3 Cherry, 4 Corn, 5 Grape, 6 Orange, 7 Peach, 8 Pepperbell, 9 Potato, 10 Rasberry, 11 Soybean, 12 Squash, 13 Strawberry, 14 Tomato
+1 Apple, 2 Blueberry, 3 Cherry, 4 Corn, 5 Grape, 6 Orange, 7 Peach, 8 Pepperbell, <br>
+9 Potato, 10 Rasberry, 11 Soybean, 12 Squash, 13 Strawberry, 14 Tomato<br>
 
 #### プログラム実行手順
 1 Convolutional_AutoEncoder.py<br>
